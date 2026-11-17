@@ -1,0 +1,167 @@
+[
+  {
+    "chunk_id": "WHO_DENGUE_2024_p1_c0",
+    "document_id": "WHO_DENGUE_2024",
+    "document_title": "Dengue and Severe Dengue Fact Sheet",
+    "organization": "WHO",
+    "page_number": 1,
+    "content": "Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes, primarily Aedes aegypti and, to a lesser extent, Aedes albopictus. The virus responsible is the dengue virus (DENV), comprising four distinct serotypes (DENV-1, DENV-2, DENV-3, and DENV-4). While many DENV infections are asymptomatic or produce only mild illness, DENV can cause severe flu-like illness and occasionally develops into a potentially lethal complication called severe dengue. Global incidence has grown dramatically in recent decades, with about half of the world's population now at risk.",
+    "token_count": 148,
+    "content_hash": "b552f0afb1c60c9b",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+  },
+  {
+    "chunk_id": "WHO_DENGUE_2024_p2_c0",
+    "document_id": "WHO_DENGUE_2024",
+    "document_title": "Dengue and Severe Dengue Fact Sheet",
+    "organization": "WHO",
+    "page_number": 2,
+    "content": "Dengue Symptoms: Most people with dengue have mild or no symptoms and will get better in 1-2 weeks. When symptoms occur, they usually begin 4-10 days after infection and last for 2-7 days. Symptoms may include: high fever (40°C/104°F), severe headache, pain behind the eyes (retro-orbital pain), muscle and joint pains, nausea, vomiting, swollen glands, and rash. Individuals who are infected for the second time are at greater risk of severe dengue.",
+    "token_count": 112,
+    "content_hash": "650fd87ee576ee51",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+  },
+  {
+    "chunk_id": "WHO_DENGUE_2024_p3_c0",
+    "document_id": "WHO_DENGUE_2024",
+    "document_title": "Dengue and Severe Dengue Fact Sheet",
+    "organization": "WHO",
+    "page_number": 3,
+    "content": "Severe Dengue Warning Signs: Severe dengue is a medical emergency that can lead to plasma leakage, fluid accumulation, respiratory distress, severe bleeding, or organ impairment. Warning signs develop 3-7 days after first symptoms, often when the fever is dropping. Warning signs include: severe abdominal pain, persistent vomiting, rapid breathing, bleeding gums or nose, fatigue, restlessness, liver enlargement, and blood in vomit or stool. Patients with these symptoms need immediate hospital care.",
+    "token_count": 125,
+    "content_hash": "4ba6f6278e480258",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+  },
+  {
+    "chunk_id": "WHO_DENGUE_2024_p4_c0",
+    "document_id": "WHO_DENGUE_2024",
+    "document_title": "Dengue and Severe Dengue Fact Sheet",
+    "organization": "WHO",
+    "page_number": 4,
+    "content": "Prevention and Mosquito Control: The primary method of controlling or preventing the transmission of dengue virus is to combat mosquito vectors. This includes preventing mosquitoes from accessing egg-laying habitats by environmental management and source reduction; disposing of solid waste properly and removing artificial man-made habitats that can hold water (e.g. buckets, discarded tyres, flower vases); covering, emptying, and cleaning domestic water storage containers on a weekly basis; using window screens, mosquito repellents, coils, and vaporizers, and wearing protective clothing that minimizes skin exposure.",
+    "token_count": 155,
+    "content_hash": "65e53439911338be",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+  },
+  {
+    "chunk_id": "WHO_DENGUE_2024_p5_c0",
+    "document_id": "WHO_DENGUE_2024",
+    "document_title": "Dengue and Severe Dengue Fact Sheet",
+    "organization": "WHO",
+    "page_number": 5,
+    "content": "Treatment and Clinical Management: There is no specific antiviral treatment for dengue fever. Patients should rest, stay hydrated by drinking plenty of clean fluids and oral rehydration solutions, and seek medical advice. For pain relief and fever reduction, paracetamol (acetaminophen) is recommended. Non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen and aspirin must be strictly avoided because they thin the blood and can exacerbate bleeding risks.",
+    "token_count": 116,
+    "content_hash": "c7a3d04773231e7c",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+  },
+  {
+    "chunk_id": "WHO_MALARIA_2024_p1_c0",
+    "document_id": "WHO_MALARIA_2024",
+    "document_title": "Malaria Key Facts and Clinical Guidelines",
+    "organization": "WHO",
+    "page_number": 1,
+    "content": "Malaria is a life-threatening disease caused by Plasmodium parasites that are spread to people through the bites of infected female Anopheles mosquitoes. Five parasite species cause malaria in humans, with Plasmodium falciparum and Plasmodium vivax posing the greatest threat. P. falciparum is the deadliest malaria parasite and the most prevalent on the African continent, while P. vivax is the dominant malaria parasite in most countries outside sub-Saharan Africa, including India.",
+    "token_count": 121,
+    "content_hash": "d69ce7aa3bb77370",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+  },
+  {
+    "chunk_id": "WHO_MALARIA_2024_p2_c0",
+    "document_id": "WHO_MALARIA_2024",
+    "document_title": "Malaria Key Facts and Clinical Guidelines",
+    "organization": "WHO",
+    "page_number": 2,
+    "content": "Malaria Symptoms: The first symptoms of malaria are fever, headache, and chills. Symptoms usually appear 10-15 days after the mosquito bite. In infants and children, severe anaemia, respiratory distress in relation to metabolic acidosis, or cerebral malaria are frequent. In adults, multi-organ failure is also frequent. If not treated within 24 hours, P. falciparum malaria can progress to severe illness and death.",
+    "token_count": 104,
+    "content_hash": "8d7ce0c705eb3816",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+  },
+  {
+    "chunk_id": "WHO_MALARIA_2024_p3_c0",
+    "document_id": "WHO_MALARIA_2024",
+    "document_title": "Malaria Key Facts and Clinical Guidelines",
+    "organization": "WHO",
+    "page_number": 3,
+    "content": "Prevention of Malaria: Vector control is the main way to prevent and reduce malaria transmission. Two forms of vector control are effective in a wide range of settings: insecticide-treated nets (ITNs) and indoor residual spraying (IRS). Sleeping under an ITN can reduce contact between mosquitoes and humans by providing both a physical barrier and an insecticidal effect. Community awareness to eliminate stagnant water puddles prevents Anopheles breeding.",
+    "token_count": 114,
+    "content_hash": "168e2b5b773be4ef",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+  },
+  {
+    "chunk_id": "MOHFW_TB_NTEP_2024_p1_c0",
+    "document_id": "MOHFW_TB_NTEP_2024",
+    "document_title": "National Tuberculosis Elimination Programme (NTEP) Guidelines",
+    "organization": "MoHFW",
+    "page_number": 1,
+    "content": "Tuberculosis (TB) is an infectious airborne disease caused by Mycobacterium tuberculosis that primarily affects the lungs (pulmonary TB). India bears the highest TB burden globally, and the Government of India through the National Tuberculosis Elimination Programme (NTEP) aims to eliminate TB by 2025. TB spreads through the air when people who have active pulmonary TB cough, sneeze, or spit.",
+    "token_count": 98,
+    "content_hash": "613f472bfd9ef89f",
+    "source_url": "https://tbcindia.gov.in/index1.php?sublinkid=4153&level=1&lid=2798"
+  },
+  {
+    "chunk_id": "MOHFW_TB_NTEP_2024_p2_c0",
+    "document_id": "MOHFW_TB_NTEP_2024",
+    "document_title": "National Tuberculosis Elimination Programme (NTEP) Guidelines",
+    "organization": "MoHFW",
+    "page_number": 2,
+    "content": "Key Symptoms of Pulmonary TB: Persistent cough lasting for 2 weeks or more, accompanied by production of sputum or blood in sputum (hemoptysis); unexplained fever, particularly in the evening; night sweats; significant unintentional weight loss; loss of appetite; chest pain and general fatigue. Any individual with a cough for two weeks or more must undergo free sputum examination and CBNAAT/Truenat molecular testing at the nearest Government Designated Microscopy Centre (DMC) or Primary Health Centre (PHC).",
+    "token_count": 128,
+    "content_hash": "dfaa0b26f0cf5e8d",
+    "source_url": "https://tbcindia.gov.in/index1.php?sublinkid=4153&level=1&lid=2798"
+  },
+  {
+    "chunk_id": "MOHFW_TB_NTEP_2024_p3_c0",
+    "document_id": "MOHFW_TB_NTEP_2024",
+    "document_title": "National Tuberculosis Elimination Programme (NTEP) Guidelines",
+    "organization": "MoHFW",
+    "page_number": 3,
+    "content": "Treatment and Ni-kshay Poshan Yojana: Under NTEP, diagnosis and full-course Directly Observed Treatment (DOTS) are provided 100% free of charge at all public health facilities across India. Patients receive financial nutritional support of Rs 500 per month through Direct Benefit Transfer under the Ni-kshay Poshan Yojana for each month of active treatment. It is critical that patients complete the full prescribed 6-month regimen even after feeling better, to avoid developing drug-resistant TB (MDR-TB).",
+    "token_count": 126,
+    "content_hash": "4ff198c10147cb5f",
+    "source_url": "https://tbcindia.gov.in/index1.php?sublinkid=4153&level=1&lid=2798"
+  },
+  {
+    "chunk_id": "MOHFW_MATERNAL_CHILD_2024_p1_c0",
+    "document_id": "MOHFW_MATERNAL_CHILD_2024",
+    "document_title": "National Health Mission: Maternal, Infant and Young Child Nutrition",
+    "organization": "MoHFW",
+    "page_number": 1,
+    "content": "Infant and Young Child Feeding (IYCF) Guidelines: The Ministry of Health and Family Welfare and National Health Mission mandate that breastfeeding should be initiated within the first hour of birth (early initiation). Colostrum (the first yellowish thick milk) is rich in antibodies and provides vital early immunity against diarrhea and respiratory infections. It should never be discarded.",
+    "token_count": 97,
+    "content_hash": "87820a5f821ee02a",
+    "source_url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=842&lid=311"
+  },
+  {
+    "chunk_id": "MOHFW_MATERNAL_CHILD_2024_p2_c0",
+    "document_id": "MOHFW_MATERNAL_CHILD_2024",
+    "document_title": "National Health Mission: Maternal, Infant and Young Child Nutrition",
+    "organization": "MoHFW",
+    "page_number": 2,
+    "content": "Exclusive Breastfeeding: Infants must be exclusively breastfed for the first six months of life (180 days). No other food or liquid, not even water, should be given during this period because breast milk provides all the hydration and nutrition a baby needs. At 6 months of age, complementary feeding should be introduced along with continued breastfeeding up to 2 years of age or beyond. Complementary foods must be hygienically prepared, age-appropriate, nutrient-dense, and made from local grains, pulses, vegetables, and fruits.",
+    "token_count": 133,
+    "content_hash": "9d6eda81b0fc5eee",
+    "source_url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=842&lid=311"
+  },
+  {
+    "chunk_id": "MOHFW_MATERNAL_CHILD_2024_p3_c0",
+    "document_id": "MOHFW_MATERNAL_CHILD_2024",
+    "document_title": "National Health Mission: Maternal, Infant and Young Child Nutrition",
+    "organization": "MoHFW",
+    "page_number": 3,
+    "content": "Maternal Health & Iron Folic Acid (IFA) Supplementation: Pregnant women are advised to undergo at least 4 antenatal checkups (ANCs) under Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA). To prevent maternal anaemia, pregnant women should take 100 Iron and Folic Acid (IFA) tablets starting from the second trimester (after 14 weeks of pregnancy), and continued during the postpartum period for at least 180 days.",
+    "token_count": 103,
+    "content_hash": "5a52a3f791347bb5",
+    "source_url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=842&lid=311"
+  },
+  {
+    "chunk_id": "WHO_HEATWAVE_GUIDELINES_p1_c0",
+    "document_id": "WHO_HEATWAVE_GUIDELINES",
+    "document_title": "Public Health Advice on Heatwaves and Heat-Related Illness",
+    "organization": "WHO",
+    "page_number": 1,
+    "content": "Extreme heat exposure can cause severe heat-related illnesses including heat cramps, heat exhaustion, and heat stroke. Heat stroke is a medical emergency with high body temperature (above 40°C), confusion, hot dry skin, and unconsciousness. During heatwaves: keep your home cool, avoid going outside during the hottest hours (11:00 AM to 4:00 PM), stay in the shade, drink cool water regularly before feeling thirsty, avoid alcoholic and sugary drinks, wear loose lightweight cotton clothing, and never leave children or pets in parked vehicles.",
+    "token_count": 136,
+    "content_hash": "fc9da7dcada7b43b",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/heatwaves-and-health"
+  }
+]

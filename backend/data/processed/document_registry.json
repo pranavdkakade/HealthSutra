@@ -1,0 +1,67 @@
+{
+  "WHO_DENGUE_2024": {
+    "id": "WHO_DENGUE_2024",
+    "title": "Dengue and Severe Dengue Fact Sheet",
+    "organization": "WHO",
+    "document_type": "fact_sheet",
+    "disease_category": "Vector-Borne Diseases",
+    "publication_date": "2024-04-23",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "file_path": "",
+    "verified": true,
+    "language": "en",
+    "chunks_count": 5
+  },
+  "WHO_MALARIA_2024": {
+    "id": "WHO_MALARIA_2024",
+    "title": "Malaria Key Facts and Clinical Guidelines",
+    "organization": "WHO",
+    "document_type": "fact_sheet",
+    "disease_category": "Vector-Borne Diseases",
+    "publication_date": "2024-03-27",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "file_path": "",
+    "verified": true,
+    "language": "en",
+    "chunks_count": 3
+  },
+  "MOHFW_TB_NTEP_2024": {
+    "id": "MOHFW_TB_NTEP_2024",
+    "title": "National Tuberculosis Elimination Programme (NTEP) Guidelines",
+    "organization": "MoHFW",
+    "document_type": "guideline",
+    "disease_category": "Respiratory Diseases",
+    "publication_date": "2024-01-15",
+    "source_url": "https://tbcindia.gov.in/index1.php?sublinkid=4153&level=1&lid=2798",
+    "file_path": "",
+    "verified": true,
+    "language": "en",
+    "chunks_count": 3
+  },
+  "MOHFW_MATERNAL_CHILD_2024": {
+    "id": "MOHFW_MATERNAL_CHILD_2024",
+    "title": "National Health Mission: Maternal, Infant and Young Child Nutrition",
+    "organization": "MoHFW",
+    "document_type": "guideline",
+    "disease_category": "Maternal and Child Health",
+    "publication_date": "2024-02-10",
+    "source_url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=842&lid=311",
+    "file_path": "",
+    "verified": true,
+    "language": "en",
+    "chunks_count": 3
+  },
+  "WHO_HEATWAVE_GUIDELINES": {
+    "id": "WHO_HEATWAVE_GUIDELINES",
+    "title": "Public Health Advice on Heatwaves and Heat-Related Illness",
+    "organization": "WHO",
+    "document_type": "advisory",
+    "disease_category": "Environmental Health",
+    "publication_date": "2024-05-18",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/heatwaves-and-health",
+    "file_path": "",
+    "verified": true,
+    "language": "en",
+    "chunks_count": 1
+  }
+}

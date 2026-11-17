@@ -1,0 +1,23 @@
+{
+  "benchmark_name": "SIH25049 Groundedness Evaluation Benchmark",
+  "date": "2026-11-17 09:31:10",
+  "total_questions": 50,
+  "healthsutra_rag": {
+    "groundedness_score": 0.98,
+    "citation_precision": 1.0,
+    "unsupported_claim_rate": 0.0,
+    "refusal_accuracy": 0.96,
+    "answer_coverage": 0.88,
+    "total_answered": 23,
+    "total_refused": 27
+  },
+  "ungrounded_vanilla": {
+    "groundedness_score": 0.48,
+    "citation_precision": 0.08,
+    "unsupported_claim_rate": 0.52,
+    "refusal_accuracy": 0.04,
+    "answer_coverage": 0.96,
+    "total_answered": 50,
+    "total_refused": 0
+  }
+}

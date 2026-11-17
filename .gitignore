@@ -1,0 +1,88 @@
+# ============================================================
+# SwasthyaSetu / HealthSutra — .gitignore
+# ============================================================
+
+# ----- Secrets & Environment Variables -----
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# ----- Virtual Environment -----
+venv/
+env/
+ENV/
+.venv/
+backend/venv/
+backend/env/
+
+# ----- Database files (local dev only — do NOT commit) -----
+*.db
+*.sqlite
+*.sqlite3
+
+# ----- FAISS vector store & large binary data -----
+backend/data/vector_store/*.index
+backend/data/vector_store/*.faiss
+backend/data/vector_store/*.pkl
+
+# ----- Node / Frontend -----
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+.yarn/cache
+.pnp.*
+
+# ----- Build output -----
+frontend/dist/
+frontend/build/
+*.tsbuildinfo
+
+# ----- OS / Editor -----
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ----- Docker -----
+.dockerignore
+
+# ----- Logs -----
+logs/
+*.log
+
+# ----- Misc -----
+*.bak
+*.tmp
